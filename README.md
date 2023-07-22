@@ -1,1 +1,1 @@
-# recipes
+Recipe suggestions for the Odin Project course project
