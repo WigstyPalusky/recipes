@@ -2,7 +2,7 @@ p {
     font-family: 'Times New Roman', sans-serif;
     margin-left: 20%;
     margin-right: 20%;
-    font-size: 150%;
+    
 }
 
 body {
@@ -20,6 +20,7 @@ h3 {
 }
 ol {
     list-style-position: inside;
+    font-size: 200%;
 }
 li {
     text-align: center;
